@@ -14,7 +14,7 @@ const AppDownloadScreen = () => {
 
         <div className="download-links">
           <Link
-            to="https://drive.google.com/uc?id=1Ff8HQLratZV8fVH6IuQ8DDTaOQl3XVOW&export=download"
+            to="https://drive.google.com/uc?id=1Byns2zicZ1V5Yyq6QJg8I2AYEEnYe3zm&export=download"
             download={true}
           >
             <img src={android} alt="android" />
