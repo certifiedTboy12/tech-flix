@@ -28,7 +28,7 @@ const Footer = () => {
                     target="_blank"
                     rel="noreferrer"
                   >
-                    <i className="ri-pinterest-line"></i>
+                    <i className="fa-brands fa-pinterest"></i>
                   </a>
                 </li>
                 <li>
@@ -37,7 +37,7 @@ const Footer = () => {
                     target="_blank"
                     rel="noreferrer"
                   >
-                    <i className="ri-github-line"></i>
+                    <i className="fa-brands fa-github"></i>
                   </a>
                 </li>
               </ul>
