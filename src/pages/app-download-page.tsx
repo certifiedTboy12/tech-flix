@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
-import android from "../Assets/ios.png";
-import ios from "../Assets/apk.png";
+import android from "@/assets/ios.png";
+import ios from "@/assets/apk.png";
 
 const AppDownloadScreen = () => {
   return (

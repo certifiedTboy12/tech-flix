@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import { useGetGenresMutation } from "@/features/apis/general-apis";
-import logo from "../../Assets/logo.png";
+import logo from "@/assets/logo.png";
 
 const NavBar = ({
   setShowSearch,
